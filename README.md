@@ -17,3 +17,9 @@
 <img src="https://img.shields.io/badge/cs-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 
 ![과제 수행 웹사이트](https://user-images.githubusercontent.com/64400731/148758250-152c3034-748d-4351-ba45-20d174510dd7.PNG)
+
+### [반려식물 - 화분 원격 제어 관리](https://github.com/Ingyo-Seo/PetPlant)
+
+<img src="https://img.shields.io/badge/cs-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+
+![반려식물 - 화분 원격 제어 관리](https://user-images.githubusercontent.com/64400731/148758250-152c3034-748d-4351-ba45-20d174510dd7.PNG)
